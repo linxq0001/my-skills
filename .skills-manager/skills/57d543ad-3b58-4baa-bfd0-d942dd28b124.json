@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "57d543ad-3b58-4baa-bfd0-d942dd28b124",
+  "path": "supabase",
+  "path_key": "supabase",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "supabase/agent-skills/supabase",
+    "subpath": "skills/supabase",
+    "branch": null
+  }
+}
